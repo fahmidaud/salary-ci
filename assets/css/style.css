@@ -1,0 +1,17 @@
+/*DATA TABEL MODIF*/
+thead tr{
+	background-color: #4052B5;
+	color: white;
+	font-size: 16px;
+}
+
+tbody tr td{
+	font-size: 17px;
+	font-weight: 500;
+	background-color: white;
+}
+
+label .input-sm{
+	background-color: white !important;
+}
+/**/
